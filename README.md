@@ -1,10 +1,10 @@
 # CI-Pagination #
 
-Version: 1.0.0
+Version: 1.0.1
 
-Date: 2013-04-16
+Date: 2013-04-21
 
-Comment: First upload.
+Comment: Update README.md.
 
 ----------
 
@@ -16,7 +16,10 @@ This is an implementation of pagination of CodeIgniter, using [my package-CI-Boo
 
 1. **application/config/database.php**
 
-		// SETUP YOUR DATABASE
+		// SETUP YOUR DATABASE 
+		// 1. Create database ci_pagination	
+		// 2. Import post.sql
+		// 3. Modify username and password in database.php
 
 2. **application/controllers/post.php**
 	
@@ -26,5 +29,5 @@ This is an implementation of pagination of CodeIgniter, using [my package-CI-Boo
 
 
 ## Reference ##
-
+ 
 1. [CodeIgniter- Pagination](http://ellislab.com/codeigniter/user-guide/libraries/pagination.html)
