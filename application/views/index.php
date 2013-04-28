@@ -23,6 +23,8 @@
               <h2>Congratulations!</h2>
               <p>You've successfully used this package! Enjoy web programming!</p>
 
+              <h2>Functional Guide</h2>
+              <p>This is an implementation of pagination of CodeIgniter, using <a href="https://github.com/andro0929/package-CI-bootstrap">my package-CI-Bootstrap on GitHub</a> to accomplish further development.</p>
               <p>Go to <a href="<?=site_url("")?>">index</a> or <a href="<?=site_url("post")?>">post</a> to check those views!</p>
               <p>Check <a href="https://github.com/andro0929/<?=$package_name?>">Github</a> for further information.</p>
               <p>Author: <a href='http://androchen.qov.tw' target="blank">Andro Chen</a></p>
